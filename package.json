@@ -1,0 +1,13 @@
+{
+  "name": "CustomReports",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.3.4",
+    "qs": "*",
+    "emmett": "*"
+  }
+}
